@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("123");
         System.out.println("third commit");
         System.out.println("remote change");
+        System.out.println("remote test");
     }
 
 }
